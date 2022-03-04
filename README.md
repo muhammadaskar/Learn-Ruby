@@ -7,3 +7,10 @@
         </td>
     </tr>
 </table> 
+
+## Example
+```ruby
+puts "Hello World"
+```
+
+
